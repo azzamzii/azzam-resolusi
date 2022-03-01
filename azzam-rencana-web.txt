@@ -6,5 +6,6 @@ Rencana Web Dev
   * Di WPU
 - JS
  * Viu
+ * React
 - Data Base
 - Python
