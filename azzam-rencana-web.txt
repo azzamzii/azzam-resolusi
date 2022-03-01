@@ -5,6 +5,10 @@ Rencana Web Dev
 - CSS
   * Di WPU
 - JS
-*Angular
-*React
+ *Angular
+ *React
+ * Viu
+ * React
+- Data Base
+- Python
 
